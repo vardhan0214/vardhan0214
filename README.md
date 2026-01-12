@@ -12,7 +12,7 @@
 - Concepts: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS), Operating Systems, Cryptography and Network Security
 
 ## 🛠️ Projects
-- 🔍 [Fraud Detection for Govt Audits]([https://github.com/vardhan0214/fraud-detection](https://github.com/vardhan0214/Interpretable-Anomaly-Detection-for-Government-Audits-Script-)) — ML pipeline to detect financial anomalies
+- 🔍 [Fraud Detection for Govt Audits](https://github.com/vardhan0214/Interpretable-Anomaly-Detection-for-Government-Audits-Script-.git) — ML pipeline to detect financial anomalies
 - 🎓 [SmartHub](https://smarthub.framer.ai/) — AI-powered educational platform
 - 🌐 [Personal Portfolio](https://github.com/vardhan0214/webportfolio) — Responsive, modern portfolio
 
