@@ -4,11 +4,11 @@
 💻 Software Developer | AI/ML Enthusiast | Java DSA | Gen AI | Agentic AI | Open Source Contributor  
 
 ## 🚀 Tech Stack
-- **Languages:** Java, Python, JavaScript, SQL, C (basic)
-- **Web:** HTML5, CSS3, JS, Framer, FastAPI
+- **Languages:** Java, Python, SQL, C 
+- **Web:** HTML5, CSS3, JavaScript, Framer, FastAPI
 - **Data/ML:** NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib
 - **Tools:** Git, GitHub, VS Code, IntelliJ, Jupyter, PyCharm
-- **Currently Learning:** LangChain, Hugging Face, LangGraph, WordPress
+- **Currently Learning:** LangChain, Ollama, HuggingFace, LangGraph, LangSmith
 - Concepts: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS), Operating Systems, Cryptography and Network Security
 
 ## 🛠️ Projects
@@ -17,7 +17,7 @@
 - 🌐 [Personal Portfolio](https://github.com/vardhan0214/webportfolio) — Responsive, modern portfolio
 
 ## 💡 Currently Working On
-- Generative AI (LangChain, OpenAI, Agentic AI)
+- Generative AI (LangChain, Ollama, Agentic AI)
 - Deepening Java DSA for FAANG-level interviews
 
 ## 📫 Contact
